@@ -9,8 +9,8 @@ price INT NOT NULL
 
 INSERT INTO fruits(name, color, price)
 VALUES
-('Apple', 'Red', 12000),
 ('Banana', 'Yellow', 18000),
+('Apple', 'Red', 12000),
 ('Orange', 'Orange', 15000);
 
 -- ADD COLUMN

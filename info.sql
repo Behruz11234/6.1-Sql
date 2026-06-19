@@ -5,7 +5,7 @@ create table "user" (
   age int not null 
 );
 
-insert into users(username, email, age) values('alibek', 'aminboyevalibek49@gmail.com', 29);('behruz', 'komilovv1@gmail.com', 19);('sanjar', 'xaytboyevsanjar@gmail.com', 19); 
+insert into users(username, email, age) values('Behruz', 'komilovbehruz0910@gmail.com', 19);('amir', 'amir12343@gmail.com', 19);('humoyun', 'humoyun1155@gmail.com', 19); 
 
  
 create table "user" (

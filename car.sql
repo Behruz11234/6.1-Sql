@@ -9,9 +9,9 @@ price INT NOT NULL
 
 INSERT INTO cars(name, brand, price)
 VALUES
-('Malibu', 'Chevrolet', 35000),
-('Cobalt', 'Chevrolet', 15000),
-('Camry', 'Toyota', 30000);
+('Jentra', 'Chevrolet', 18000),
+('Spark', 'Chevrolet', 8000),
+('Coblt', 'Chevrolet', 13500);
 
 -- ADD COLUMN
 ALTER TABLE cars ADD COLUMN color VARCHAR;
